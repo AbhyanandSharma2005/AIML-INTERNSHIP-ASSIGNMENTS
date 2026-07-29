@@ -2,8 +2,6 @@
 
 Harness the power of **AI + Retrieval** to get precise, document-specific answers-whether you're researching, studying, or building intelligent systems.
 
-![RAG Homepage](images/Homepage.png) 
-
 ---
 
 ## 📌 What is This?
@@ -53,15 +51,6 @@ It remembers your previous questions, so you get context-aware, human-like respo
     - Click **Load File** or **Load URL**.
     - Ask your question in the chat input.
     - View your conversation history and explore other sections via the navigation bar.
-
----
-
-## 🖥️ Screenshots
-
-<!-- Add your own screenshots here -->
-![User Manual](images/User_Manual.png)
-![Working of App](images/WORKING1.png)
-![Chat Example](images/WORKING2.png)
 
 ---
 
