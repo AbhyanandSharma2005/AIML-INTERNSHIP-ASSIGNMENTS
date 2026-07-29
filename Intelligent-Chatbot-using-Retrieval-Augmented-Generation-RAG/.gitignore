@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*__test__*
+
+.env
+cookies/
+
+*ignr*
+misc/
+secrets.toml
+
+.vercel
+
+*.bin
+chroma_db/
+
+chroma_db/
