@@ -1,0 +1,7 @@
+CARTPOLE LAB PPO EVALUATION REPORT
+----------------------------------
+Target Environment: CartPole-v1
+Total Test Episodes: 100
+Mean Reward achieved: 500.00 / 500.00
+Standard Deviation: 0.00
+Status: Solved / Passed
