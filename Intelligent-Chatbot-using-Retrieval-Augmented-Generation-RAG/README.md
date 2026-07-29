@@ -74,15 +74,6 @@ Our mission: **To make AI more human-centric by combining advanced language mode
 
 ---
 
-## 💼 Team
-
-- 👨‍💻 **Om Kumar Singh** – Lead Developer  
-- 🧑‍💻 Ashi Jain  
-- 🧑‍💻 Vansh Jain  
-- 🧑‍💻 Roshmik Agrawal  
-- 🧑‍💻 Aadish Chaturvedi  
-- 🧑‍💻 Shambhavi Dubey
-
 ---
 
 ## 🌍 Why This Matters
@@ -100,22 +91,10 @@ In a world overflowing with unstructured information, our chatbot serves as a pe
 
 ---
 
-## 📫 Contact
-
-- 📞 **Phone:** +91-7004918026
-- ✉️ **Email:** as120171.omkumar@gmail.com
-- 📷 [Instagram](https://www.instagram.com/omsingh031/)
-- 💻 [GitHub](https://github.com/omsingh031)
-- 🔗 [LinkedIn](https://linkedin.com/in/omsingh031)
-
----
-
 ## 📝 License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ---
-
-
 
 # 🤖 Intelligent-Chatbot-using-Retrieval-Augmented-Generation-RAG
