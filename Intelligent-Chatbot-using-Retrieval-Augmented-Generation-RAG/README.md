@@ -116,6 +116,6 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ---
 
-> _Made with ❤️ by Om Kumar Singh and Team_
+
 
 # 🤖 Intelligent-Chatbot-using-Retrieval-Augmented-Generation-RAG
